@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Daniel Guimarães
+### Hi there 👋 I'm Daniel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danguimaraes86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
