@@ -2,6 +2,8 @@
 
 ### Daniel Guimarães
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danguimaraes86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danguimaraes86@gmail.com)](mailto:danguimaraes86@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danguimaraes86)](https://github.com/danguimaraes86)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danguimaraes86/)](https://www.linkedin.com/in/danguimaraes86/)
